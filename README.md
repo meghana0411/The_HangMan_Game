@@ -7,7 +7,7 @@ This Python program implements a Hangman Game, where the player guesses a random
 
 _Random Word Selection:_ A random fruit name is selected from a predefined list. The player must guess this word.<br>
 _Player's Objective:_ The player guesses one letter at a time to reveal the hidden word within a set number of attempts.<br>
-_Hangman Stages:_ Each incorrect guess adds a new part to the hangman figure. The player loses if the hangman is fully drawn before the word is guessed.<br>
+_Hangman Stages:_  Each incorrect guess adds a new part to the hangman figure. The player loses if the hangman is fully drawn before the word is guessed.<br>
 
 **Game Variables**<br>
 A list of fruits serves as the pool for the random word selection.<br>
